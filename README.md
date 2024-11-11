@@ -97,10 +97,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kietpham-vn&show_icons=true&locale=en&layout=compact" alt="kietpham-vn" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kietpham-vn&show_icons=true&locale=en" alt="kietpham-vn" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kietpham-vn&" alt="kietpham-vn" />
-</p>
