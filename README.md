@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=kietpham-vn&label=Profile%20views&color=0e75b6&style=flat" alt="kietpham-vn" />
 </p>
 
-![](https://github-trophies.vercel.app/?username=KietPham-VN&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=KietPham-VN&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
+</div>
 
 - 📫 How to reach me **<phamanhkiet.dev@gmail.com>**
 
@@ -46,6 +48,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KietPham-VN&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 80rem;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KietPham-VN&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117" style="width: 80rem;">
+
 
 
