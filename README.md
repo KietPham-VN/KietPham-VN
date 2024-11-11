@@ -50,5 +50,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KietPham-VN&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KietPham-VN&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 80rem;">
+
 
