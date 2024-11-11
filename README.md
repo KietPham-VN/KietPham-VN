@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kietpham-vn&label=Profile%20views&color=0e75b6&style=flat" alt="kietpham-vn" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kietpham-vn" alt="kietpham-vn" />
-  </a>
-</p>
+![](https://github-trophies.vercel.app/?username=KietPham-VN&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 - 📫 How to reach me **<phamanhkiet.dev@gmail.com>**
 
