@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pham Anh Kiet</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kietpham-vn&label=Profile%20views&color=0e75b6&style=flat" alt="kietpham-vn" />
-</p>
-
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=KietPham-VN&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
 </div>
