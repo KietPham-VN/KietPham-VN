@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pham Anh Kiet</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=KietPham-VN&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
-</div>
 
 - 📫 How to reach me **<phamanhkiet.dev@gmail.com>**
 
