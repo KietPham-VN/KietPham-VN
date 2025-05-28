@@ -58,5 +58,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietpham-vn&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kietpham-vn&theme=github-compact)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kietpham-vn&theme=github-compact" alt="Top Languages" />
+</p>
+
 
