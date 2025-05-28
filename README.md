@@ -10,7 +10,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiệt phạm" height="30" width="40" />
   </a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kietpham-vn&label=Profile%20views&color=0e75b6&style=flat" alt="kietpham-vn" /> </p>
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
