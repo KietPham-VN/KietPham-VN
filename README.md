@@ -8,6 +8,17 @@
 - 📫 Reach me at: **phamanhkiet.dev@gmail.com**
 - 🌱 Currently learning: `.NET Clean Architecture`, `System Design`
 - 🧠 Fun fact: I debug better after coffee ☕ + lo-fi 🎧
+- 💬 `"while(alive) { code(); sleep(); coffee(); }"`
+- 🎯 Currently trying to hit 500+ commits this year!
+- 🐧 Arch user btw (or dreaming of being one 😅)
+
+---
+
+### ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
@@ -82,7 +93,6 @@
   </tr>
 </table>
 
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -93,10 +103,13 @@
 
 ---
 
-### 🐍 Contribution Snake (auto update)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kietpham-vn&theme=radical&count_private=true&hide=prs&card_width=400px&locale=en&bg_color=black&line_color=#4E9F3D" alt="Top Languages" />
+</p>
+
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
-
