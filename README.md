@@ -14,6 +14,19 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kietpham-vn&theme=radical&count_private=true&bg_color=white" alt="GitHub Activity Graph" />
+</p>
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+---
+
 ### ✍️ Dev Quote of the Day
 
 <p align="center">
@@ -102,14 +115,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kietpham-vn&theme=radical&count_private=true&hide=prs&card_width=400px&locale=en&bg_color=black&line_color=#4E9F3D" alt="Top Languages" />
-</p>
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
