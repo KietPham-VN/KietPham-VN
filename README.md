@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kietpham-vn&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kietpham-vn&theme=github-compact" alt="Top Languages" />Add commentMore actions
+</p
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kietpham-vn&theme=dark" alt="GitHub Streak" />
