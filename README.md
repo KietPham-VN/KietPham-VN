@@ -95,7 +95,5 @@
 
 ### 🐍 Contribution Snake (auto update)
 
-> *(Enable GitHub Actions for this to animate)*
-
-```md
 ![snake gif](https://github.com/kietpham-vn/kietpham-vn/blob/output/github-contribution-grid-snake.svg)
+
