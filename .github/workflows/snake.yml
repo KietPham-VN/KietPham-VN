@@ -1,0 +1,33 @@
+name: Update Snake
+
+on:
+  schedule:
+    # Cron job để chạy mỗi ngày
+    - cron: '0 0 * * *' # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:
+    # Tự động cập nhật khi bạn chạy thủ công từ GitHub Actions
+    # Nếu cần test, bạn có thể kích hoạt thủ công
+    - workflow_dispatch
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Lấy code từ repo
+      - uses: actions/checkout@v2
+
+      # Tạo file con rắn mới
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user: "kietpham-vn"  # Đổi thành username của bạn
+          svg_out_path: "github-contribution-grid-snake.svg"
+
+      # Commit lại file SVG mới vào repo
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          message: "Update contribution graph"
