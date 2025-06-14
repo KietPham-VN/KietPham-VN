@@ -1,13 +1,11 @@
 name: Update Snake
 
 on:
+  # Để chạy tự động mỗi ngày
   schedule:
-    # Cron job để chạy mỗi ngày
-    - cron: '0 0 * * *' # chạy mỗi ngày lúc 00:00 UTC
-  workflow_dispatch:
-    # Tự động cập nhật khi bạn chạy thủ công từ GitHub Actions
-    # Nếu cần test, bạn có thể kích hoạt thủ công
-    - workflow_dispatch
+    - cron: '0 0 * * *'  # Thời gian chạy cron (00:00 UTC mỗi ngày)
+  # Để có thể chạy thủ công
+  workflow_dispatch:   # Thêm sự kiện để bạn có thể chạy thủ công từ GitHub UI
 
 jobs:
   update-snake:
