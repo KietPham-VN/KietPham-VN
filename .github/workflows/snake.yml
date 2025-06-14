@@ -15,29 +15,20 @@ jobs:
 
       # Tạo file con rắn mới
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_user_name: "kietpham-vn"  # Thay thành username GitHub của bạn
-          args: "-p"  # Tạo con rắn
+          github_user_name: ${{ github.repository_owner }}  # Lấy username GitHub của repo owner
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Kiểm tra sự tồn tại của file SVG
-      - name: Check for generated snake SVG
-        run: |
-          echo "Checking if the snake file exists..."
-          ls -alh  # Liệt kê các file trong thư mục làm việc
-          if [ ! -f "github-contribution-grid-snake.svg" ]; then
-            echo "SVG file not found!"
-            exit 1
-          fi
-
-      # Sử dụng environment files để set output và commit
+      # Kiểm tra xem file SVG/GIF có được tạo không và commit vào repo
       - name: Commit & Push
-        run: |
-          # Commit lại file SVG vào repo
-          echo "example=github-contribution-grid-snake.svg" >> $GITHUB_OUTPUT
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update contribution graph"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token cần thiết để commit và push
-
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          message: "Update contribution snake"
+          push: true
+          branch: main
