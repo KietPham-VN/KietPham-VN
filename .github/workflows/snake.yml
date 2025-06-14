@@ -1,11 +1,9 @@
 name: Update Snake
 
 on:
-  # Để chạy tự động mỗi ngày
   schedule:
-    - cron: '0 0 * * *'  # Thời gian chạy cron (00:00 UTC mỗi ngày)
-  # Để có thể chạy thủ công
-  workflow_dispatch:   # Thêm sự kiện để bạn có thể chạy thủ công từ GitHub UI
+    - cron: '0 0 * * *'  # Chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:  # Cho phép chạy thủ công
 
 jobs:
   update-snake:
@@ -19,8 +17,9 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user: "kietpham-vn"  # Đổi thành username của bạn
-          svg_out_path: "github-contribution-grid-snake.svg"
+          github_user_name: "kietpham-vn"  # Thay username GitHub của bạn
+          entryPoint: "github.com"  # Chỉ định github.com
+          args: "-p"  # Tạo con rắn với các cài đặt mặc định
 
       # Commit lại file SVG mới vào repo
       - name: Commit & Push
