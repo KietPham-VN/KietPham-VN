@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kietpham-vn&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kietpham-vn&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
