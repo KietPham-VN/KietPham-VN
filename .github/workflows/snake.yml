@@ -18,12 +18,24 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: "kietpham-vn"  # Thay username GitHub của bạn
-          args: "-p"  # Thêm tham số mặc định để tạo con rắn
+          args: "-p"  # Tạo con rắn
 
-      # Commit lại file SVG mới vào repo
+      # Kiểm tra sự tồn tại của file SVG
+      - name: Check for generated snake SVG
+        run: |
+          echo "Checking if the snake file exists..."
+          ls -alh # Liệt kê các file trong thư mục làm việc
+          if [ ! -f "github-contribution-grid-snake.svg" ]; then
+            echo "SVG file not found!"
+            exit 1
+          fi
+
+      # Commit và push file SVG vào repo
       - name: Commit & Push
         uses: EndBug/add-and-commit@v7
         with:
           author_name: "github-actions[bot]"
           author_email: "41898282+github-actions[bot]@users.noreply.github.com"
           message: "Update contribution graph"
+          push: true
+          branch: main
