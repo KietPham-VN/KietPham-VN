@@ -1,41 +1,26 @@
 <h1 align="center">Hi 👋, I'm Pham Anh Kiet</h1>
-<h3 align="center">A passionate backend developer from Vietnam 🇻🇳</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Microservices+%26+Clean+Architecture+%E2%9A%99%EF%B8%8F;Linux+%26+Neovim+Enjoyer+%F0%9F%90%A7;Technical+Mentor+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kietpham-vn&label=Profile%20views&color=0e75b6&style=flat" alt="kietpham-vn" />
 </p>
 
+---
+
+### 👨‍💻 About Me
 - 📫 Reach me at: **phamanhkiet.dev@gmail.com**
 - 🌱 Currently learning: `.NET Clean Architecture`, `System Design`
 - 🧠 Fun fact: I debug better after coffee ☕ + lo-fi 🎧
 - 💬 `"while(alive) { code(); sleep(); coffee(); }"`
 - 🎯 Currently trying to hit 500+ commits this year!
+- 🌿 **AFK Hobbies:** Building planted terrariums/aquariums & speedcubing while waiting for pipelines to finish.
 - 🐧 Arch user btw (or dreaming of being one 😅)
 
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kietpham-vn&theme=radical&count_private=true&bg_color=white" alt="GitHub Activity Graph" />
-</p>
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
----
-
-### ✍️ Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🌐 Connect with me:
+**🌐 Connect with me:**  
 <p align="left">
   <a href="https://www.facebook.com/PhamAnhKiet2005/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
@@ -44,50 +29,122 @@
 
 ---
 
+### 🎯 Engineering Focus
+
+<p align="center">
+  <b>Backend Engineering</b> •
+  <b>Full-Stack Development</b> •
+  <b>Distributed Systems</b>
+</p>
+<p align="center">
+  <b>Cloud-Native & DevOps</b> •
+  <b>ERP Development</b> •
+  <b>Desktop & Mobile Development</b>
+</p>
+<p align="center">
+  <b>Test Automation</b> •
+  <b>AI-Assisted Development</b>
+</p>
+
+---
+
 ### 💻 Tech Stack
 
-#### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 👨‍💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,js,ts,go,java,py,rust,dart&perline=9" />
+  </a>
+</p>
+
+#### 📜 Scripting, Markup & Typesetting
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,md,latex" />
+  </a>
+</p>
+
+#### 🧰 Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,nextjs,react,tauri,flutter,spring,fastapi,elysia,tailwind,vite&perline=9" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+#### 🛢️ Databases, ORMs & Storage
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,sqlite,prisma,firebase,supabase&perline=8" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C7202C?style=for-the-badge&logo=minio&logoColor=white" />
+</p>
+
+#### ☁️ DevOps, Cloud & Infrastructure
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,grafana,cloudflare,vercel" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doppler-000000?style=for-the-badge&logo=doppler&logoColor=white" />
+</p>
+
+#### 🧪 Testing & API Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium,cypress,postman" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+</p>
+
+#### 🛠️ Tools & Environment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,git,github,bun,pnpm&perline=9" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/mise-222222?style=for-the-badge" />
+</p>
+
+#### 🤖 AI-Assisted Development
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 
 ---
 
-#### 🧰 Frameworks
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-0FA9E6?style=for-the-badge&logo=elysia&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 🏆 GitHub Trophies & Stats
 
----
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=KietPham-VN&theme=radical" />
+</p>
 
-#### 📦 ORMs / Data Tools
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-#### 🛢️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-<h3 align="center">📊 Stats</h3>
+<br>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <!-- Hàng 1 -->
@@ -121,10 +178,24 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kietpham-vn&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-act-graph.rodriaum.com/graph?username=KietPham-VN&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+</div>
+
 ---
+
+### ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
